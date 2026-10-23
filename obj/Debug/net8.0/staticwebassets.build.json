@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "/VEY7MJNk8bFroZp8Yavn+xvMPFDR2pJGIEppm2eJss=",
+  "Source": "AzurePortfolio.Api",
+  "BasePath": "_content/AzurePortfolio.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
